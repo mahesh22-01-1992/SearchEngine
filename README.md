@@ -1,0 +1,2 @@
+# SearchEngine
+Create Search bar as below. You have to store Ram, Ramayana, Ramakrishna, Rose, and Krishna Keywords into database. You have to search this Keyword from database. During the typing of character into search bar it should populate all related key Words from database just like Google Search.  Also Store the number of counts particular keyword is searched into database. Technology:  Backend: J2EE Technology  Database: any Database (Recommendation:  MS SQL Server)  UI: Angular or JSP (Recommendation:  Angular)
